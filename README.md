@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=69ali&label=Profile%20views&color=0e75b6&style=flat" alt="69ali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=69ali" alt="69ali" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ![image](https://user-images.githubusercontent.com/113003602/206840652-da0393a2-bdcf-485a-9fbd-a1994bc30275.png)
 
@@ -33,6 +29,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/p
 
 ![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=69ali&" alt="69ali" /></p>
+
 
 
