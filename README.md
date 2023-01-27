@@ -30,6 +30,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/p
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itxali6969&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itxali6969&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itxali6969&layout=compact?user=itxali6969&theme=dark&background=000000)](https://github.com/itxali6969/github-readme-stats)
 
 
