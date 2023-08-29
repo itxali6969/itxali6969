@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **python, c++, wordpress**
+- 💬 Ask me about **python, Tableau, Power BI, Excel, SQL, c++, HTML & CSS**
 
 - 📫 How to reach me **itxaliahmad907@gmail.com**
 
@@ -21,6 +21,8 @@
 <a href="https://linkedin.com/in/ali ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali ahmad" height="30" width="40" /></a>
 <a href="https://fb.com/ali ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/itxali_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itxali_69" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/ali.ahmad4727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itxali_69" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
