@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/ali ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali ahmad" height="30" width="40" /></a>
 <a href="https://fb.com/ali ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/itxali_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itxali_69" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/ali.ahmad4727" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ftableau&psig=AOvVaw1Ngw7X7hsWSbHPv9YxrVmi&ust=1693391740833000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCft_vVgYEDFQAAAAAdAAAAABAE" alt="" height="30" width="40" /></a>
+
   
 </p>
 
